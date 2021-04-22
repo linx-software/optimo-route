@@ -3,6 +3,11 @@
 ## Overview
 
 The provided sample includes:
+- Generating an API Key.
+- Configuring Linx application with API Key.
+- Template functions:
+ - Creating an order
+ - Retrieving all orders
 
 ---
 
